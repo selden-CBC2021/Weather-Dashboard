@@ -71,6 +71,7 @@ var getCityLocation = function(city) {
     var currentIcon = forecast.current.weather[0].icon;
     weatherIconEl.setAttribute('src', `http://openweathermap.org/img/wn/${currentIcon}.png`);
     weatherIconEl.setAttribute('alt', forecast.current.weather[0].main)
+    weatherIconEl.setAttribute('style', 'background-color: dark')
 
     displayTemp('#current-temp', forecast.current['temp']);
     displayTemp('#current-feels-like', forecast.current['feels_like']);
