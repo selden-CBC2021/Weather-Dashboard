@@ -23,5 +23,5 @@ THEN I am again presented with current and future conditions for that city
 ## Usage
 Type any city in the search bar - it doesn't need to be capitalized but make sure you spell it right!
 
-
-
+![alt text](assets/images/weather1.png)
+![alt text](assets/images/weather2.png)
