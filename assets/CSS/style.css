@@ -1,0 +1,12 @@
+* {
+  font-family: 'Sanchez', serif; 
+}
+.row-custom {
+  font-size: 24px;
+  background-color: rgb(150, 227, 230);
+}
+
+
+.invisible {
+    display: none;
+  }
