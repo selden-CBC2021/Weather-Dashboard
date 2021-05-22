@@ -25,3 +25,7 @@ Type any city in the search bar - it doesn't need to be capitalized but make sur
 
 ![alt text](assets/images/weather1.png)
 ![alt text](assets/images/weather2.png)
+
+## Credits 
+-- OpenWeather API
+-- https://openweathermap.org/api
