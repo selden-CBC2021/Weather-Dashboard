@@ -18,7 +18,10 @@ THEN I am again presented with current and future conditions for that city
 
 ## Installation
 -- Click on the link below and enter a city in the US to get the current weather and a 5 day forecast for that city
+-- https://selden-cbc2021.github.io/Weather-Dashboard/
 
 ## Usage
 Type any city in the search bar - it doesn't need to be capitalized but make sure you spell it right!
+
+
 
