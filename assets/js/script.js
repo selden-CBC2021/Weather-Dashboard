@@ -95,13 +95,13 @@ var getCityLocation = function(city) {
     uviEl.textContent = currentUvi;
     
     // uvi colors 
-    if (currentUvi <= 3) {
+    if (currentUvi >= 3) {
         uviEl.className = 'badge badge-success';
     }
-    if (currentUvi <= 5) {
+    if (currentUvi >= 5) {
         uviEl.className = 'badge badge-warning';
     }
-    if (currentUvi <= 7) {
+    if (currentUvi >= 7) {
         uviEl.className = 'badge badge-danger';
     }
     if (currentUvi == 0) {
